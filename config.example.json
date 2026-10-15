@@ -1,0 +1,5 @@
+{
+  "cache_dir": "image_cache",
+  "index_file": "internal_embeddings.npz",
+  "internal_file": "站内男装总表.xlsx"
+}
